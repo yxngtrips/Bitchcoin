@@ -1,0 +1,2 @@
+# Bitchcoin
+Memecoin smart contract 
